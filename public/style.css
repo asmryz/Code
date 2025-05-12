@@ -1,0 +1,31 @@
+html {
+	font-size: 0.85rem;
+	font-family: "Segoe UI";
+}
+td {
+	padding-left: 8px;
+	padding-right: 8px;
+}
+table,
+th,
+tr,
+td {
+	border-collapse: collapse;
+	border: 1px solid #d3d3d3;
+}
+textarea {
+	font-family: Arial;
+}
+a {
+	color: blue;
+}
+
+.col {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+.hdr th {
+	text-align: right;
+	padding-right: 5px;
+}
